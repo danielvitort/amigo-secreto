@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Projeto em ReactJs + Typescript
+Projeto em NextJs + Typescript
 
 ## Instalação
 - `npm install`
